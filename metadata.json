@@ -1,0 +1,6 @@
+{
+  "name": "Independent Digital Magazine",
+  "description": "A modern independent digital magazine and multi-niche editorial publishing platform covering technology, business, science, wellness, and practical knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
